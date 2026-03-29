@@ -12,6 +12,6 @@ cask "dockclick" do
   app "DockClick.app"
 
   zap trash: [
-    "~/Library/Preferences/com.example.dockclick.plist",
+    "~/Library/Preferences/com.xldrx.dockclick.plist",
   ]
 end
