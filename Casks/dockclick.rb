@@ -1,6 +1,6 @@
 cask "dockclick" do
-  version "1.2"
-  sha256 "52e72b815872f1421f07c115b4dcacf7611349c31d806f2c84eba452aa561c36"
+  version "1.3"
+  sha256 "73ef074b0c593099d5a8ce734a3dde62ab3f72cfca7ae129ac930342e8e5ed57"
 
   url "https://github.com/xldrx/mac-dock-click/releases/download/v#{version}/DockClick-#{version}.zip"
   name "DockClick"
